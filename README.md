@@ -2,7 +2,7 @@
 
 - Bacharela em Ciências Contábeis
 - Técnica em Suporte e Manutenção em Informática
-- Cursando Análise e Desenvolvimento de Sistemas
+- Analista e Desenvolvedora de Sistemas
 
 <div align="center">
   <a href="https://github.com/ThallytaM">
